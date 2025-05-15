@@ -1,6 +1,8 @@
 # autoParkingRecorder
 Bluetooth free app that helps to record your parking location automatically.
 
+Pending to App Store
+
 **Description:**
 
 0. Give the location permission, dont kill the app.
