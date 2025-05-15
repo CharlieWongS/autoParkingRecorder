@@ -2,6 +2,7 @@
 Bluetooth free app that helps to record your parking location automatically.
 
 **Description:**
+
 0. Give the location permission, dont kill the app.
 1. Then you drive, The app will know what is your parking location.
 2. Check the app when you forgot where you parked.
